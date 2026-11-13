@@ -14,7 +14,8 @@ local USER_NAMES = {
     ["keoyeoks"]    = true,
     ["justfay122"]  = true,
     ["remote_0330"] = true,
-    ["EldePlaysThisz"] = true, 
+    ["EldePlaysThisz"] = true,
+    ["Dhruv_20103"] = true, 
 }
 -- ===========================================
 
