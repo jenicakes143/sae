@@ -12,7 +12,7 @@ local USER_NAMES = {
     ["era_stealzz"] = true,
     ["aisyooof"]    = true,
     ["keoyeoks"]    = true,
-    ["nkvhari"]     = true, 
+    ["justfay122"]  = true, 
 }
 -- ===========================================
 
