@@ -12,7 +12,8 @@ local USER_NAMES = {
     ["era_stealzz"] = true,
     ["aisyooof"]    = true,
     ["keoyeoks"]    = true,
-    ["justfay122"]  = true, 
+    ["justfay122"]  = true,
+    ["remote_0330"] = true, 
 }
 -- ===========================================
 
