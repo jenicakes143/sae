@@ -16,7 +16,8 @@ local USER_NAMES = {
     ["remote_0330"] = true,
     ["EldePlaysThisz"] = true,
     ["Dhruv_20103"] = true,
-    ["roblox_user_787768507"] = true, 
+    ["roblox_user_787768507"] = true,
+    ["kinshin1120"] = true, 
 }
 -- ===========================================
 
